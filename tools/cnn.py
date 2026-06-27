@@ -1,0 +1,50 @@
+import torch.nn as nn
+import torch
+
+
+class TextCNN(nn.Module):
+
+    def __init__(
+        self,
+        embed_dim: int,
+        out_channels: int,
+        output_size: int,
+        kernel_sizes: list[int] | None = None,
+        dropout_rate: float = 0.5,
+        classes_= []
+    ):
+        super().__init__()
+        if kernel_sizes is None:
+            kernel_sizes = [3, 5, 7]
+
+
+        self.classes_ = classes_
+
+        self.branches = nn.ModuleList([
+            nn.Sequential(
+                nn.Conv1d(embed_dim, out_channels, k, padding="same"),
+                nn.BatchNorm1d(out_channels),
+                nn.ReLU(),
+            )
+            for k in kernel_sizes
+        ])
+ 
+        fc_input_dim = len(kernel_sizes) * out_channels * 2
+ 
+        self.classifier = nn.Sequential(
+            nn.Linear(fc_input_dim, 128),
+            nn.ReLU(),
+            nn.Dropout(dropout_rate),
+            nn.Linear(128, output_size),
+        )
+ 
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        branch_outputs = []
+        for branch in self.branches:
+            h = branch(x)
+            h_max = h.max(dim=-1).values
+            h_avg = h.mean(dim=-1)
+            branch_outputs.append(torch.cat([h_max, h_avg], dim=-1))
+ 
+        out = torch.cat(branch_outputs, dim=-1)
+        return self.classifier(out)

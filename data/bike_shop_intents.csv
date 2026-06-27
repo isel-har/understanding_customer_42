@@ -1,0 +1,672 @@
+text,intent
+what kind of bikes do you sell,Bike Types
+do you have mountain bikes,Bike Types
+I'm looking for a road bike,Bike Types
+what's the difference between a hybrid and a city bike,Bike Types
+do you carry electric bikes,Bike Types
+do u have kids bikes,Bike Types
+"I need a BMX bike, do you stock those",Bike Types
+what brands of bikes do you carry,Bike Types
+looking for a gravel bike,Bike Types
+do you have fat tire bikes,Bike Types
+which bikes are good for beginners,Bike Types
+do you sell folding bikes,Bike Types
+i want a bike for commuting to work,Bike Types
+what kind of touring bikes do you have,Bike Types
+do u guys sell cruisers,Bike Types
+I'm interested in a carbon fiber road bike,Bike Types
+are there any single speed bikes available,Bike Types
+what's a good trail bike for intermediate riders,Bike Types
+do you sell recumbent bikes,Bike Types
+i need something for off-road riding,Bike Types
+how much does a mountain bike cost,Cost Estimation
+what's the price range for road bikes,Cost Estimation
+how much would a tune-up run me,Cost Estimation
+whats the cost of a kids bike,Cost Estimation
+how much do electric bikes go for,Cost Estimation
+can you give me an estimate for a full bike build,Cost Estimation
+how much does brake repair cost,Cost Estimation
+what does a flat tire fix cost,Cost Estimation
+roughly how much should i budget for a beginner bike,Cost Estimation
+are there any bikes under 500 dollars,Cost Estimation
+how much is a gear tune-up,Cost Estimation
+what does a chain replacement cost,Cost Estimation
+price for a complete bike overhaul,Cost Estimation
+do you have anything in the $300 range,Cost Estimation
+how much would it cost to add a rack and fenders,Cost Estimation
+what are your labor rates for repairs,Cost Estimation
+how much for new handlebars installed,Cost Estimation
+is there a fee for bike fitting,Cost Estimation
+how much does wheel truing cost,Cost Estimation
+what's a fair price for a used commuter bike,Cost Estimation
+what are your hours,Hours
+when do you open,Hours
+are you open on sundays,Hours
+what time do you close today,Hours
+do you have weekend hours,Hours
+are you open on holidays,Hours
+what time does the shop open on saturday,Hours
+are you guys open right now,Hours
+do you close early on weekdays,Hours
+what time do you shut down on fridays,Hours
+is the shop open monday mornings,Hours
+do you have extended hours in summer,Hours
+are you open late any days of the week,Hours
+what time can I come in today,Hours
+when is your last appointment slot available,Hours
+do you open at 9am or 10am,Hours
+are u open tomorrow,Hours
+what r your business hours,Hours
+do u guys close for lunch,Hours
+whats the latest i can drop off my bike for repair,Hours
+I'd like to book a repair appointment,Make Appointment
+can I schedule a tune-up,Make Appointment
+how do I make an appointment,Make Appointment
+"i want to bring my bike in, how do i book",Make Appointment
+can i reserve a time slot for a fitting,Make Appointment
+i need to schedule a brake adjustment,Make Appointment
+can i book an appointment online,Make Appointment
+i want to come in saturday for a service,Make Appointment
+how far in advance do i need to book,Make Appointment
+do i need an appointment or can i walk in,Make Appointment
+can i set up a time to test ride a bike,Make Appointment
+id like to schedule a bike fitting session,Make Appointment
+how do i get on your repair calendar,Make Appointment
+"i want to bring in my mtb for a full service, when can i come",Make Appointment
+can i book a consultation for a new bike purchase,Make Appointment
+do you take same day appointments,Make Appointment
+I need to schedule my bike for an overhaul next week,Make Appointment
+is there availability this Thursday for a tune-up,Make Appointment
+can you put me down for a Saturday morning appointment,Make Appointment
+i'd like to reserve a drop-off slot,Make Appointment
+Book a service for my bike,Make Appointment
+Schedule a bike checkup,Make Appointment
+I want to get my bike serviced,Make Appointment
+Set up a maintenance appointment,Make Appointment
+Arrange a bike inspection,Make Appointment
+Book a routine bike service,Make Appointment
+I need to bring my bike in for maintenance,Make Appointment
+Schedule a full bike check,Make Appointment
+Make an appointment for a bike tune-up,Make Appointment
+what is your return policy,Return Policy
+can i return a bike i bought last week,Return Policy
+how many days do i have to return something,Return Policy
+"i bought a helmet and it doesn't fit, can i return it",Return Policy
+do you accept returns on accessories,Return Policy
+what if i change my mind after buying a bike,Return Policy
+can i exchange a bike for a different size,Return Policy
+do you give refunds or only store credit,Return Policy
+what's your policy on returning used bikes,Return Policy
+"i received a damaged product, what can i do",Return Policy
+is there a restocking fee for returns,Return Policy
+"i bought bike shoes and they don't fit, can i return",Return Policy
+how do returns work if i bought online and want to return in store,Return Policy
+can i return a sale item,Return Policy
+what do i need to bring for a return,Return Policy
+do i need the original box to return a bike,Return Policy
+"i was gifted a bike that doesn't suit me, can it be returned",Return Policy
+what happens if the bike breaks within the first month,Return Policy
+is there a warranty on new bikes,Return Policy
+can i return parts i installed and didn't like,Return Policy
+do you accept trade-ins,Trade-in Options
+can i trade my old bike for a new one,Trade-in Options
+do you buy used bikes,Trade-in Options
+how does your trade-in program work,Trade-in Options
+how much would you give me for my old mountain bike,Trade-in Options
+do you take bikes in any condition,Trade-in Options
+can i trade in my bike even if it needs repairs,Trade-in Options
+is there a trade-in credit towards a new bike,Trade-in Options
+"i want to upgrade my bike, do you do trade ups",Trade-in Options
+do u buy second hand bikes,Trade-in Options
+what brands do you accept for trade-in,Trade-in Options
+can i get an estimate on my trade-in value,Trade-in Options
+will you take my kids bike as a trade toward an adult bike,Trade-in Options
+how do i know if my bike qualifies for trade-in,Trade-in Options
+does the trade-in value change based on bike age,Trade-in Options
+can i trade in multiple bikes,Trade-in Options
+do you have a used bike section,Trade-in Options
+"i have a bike that's too small now, can i trade it",Trade-in Options
+do you offer trade-in deals during sales events,Trade-in Options
+how long does the trade-in appraisal take,Trade-in Options
+hi,Welcome Intent
+hey there,Welcome Intent
+good morning,Welcome Intent
+good afternoon,Welcome Intent
+hey,Welcome Intent
+hi there!,Welcome Intent
+hello is anyone there,Welcome Intent
+heyy,Welcome Intent
+howdy,Welcome Intent
+greetings,Welcome Intent
+sup,Welcome Intent
+yo,Welcome Intent
+good evening,Welcome Intent
+hi i'm new here,Welcome Intent
+hello i have a question,Welcome Intent
+hey i need some help,Welcome Intent
+hi can you help me,Welcome Intent
+hello! just browsing,Welcome Intent
+Carbon fiber bike,Bike Types
+budget bikes,Bike Types
+professional bikes,Bike Types
+bikes for men,Bike Types
+bikes for women,Bike Types
+bikes for kids,Bike Types
+I'm looking for a bike for my son,Bike Types
+Budget Bikes for Road and Trail,Bike Types
+light-weighted bikes,Bike Types
+bikes good for commuting,Bike Types
+Bikes for daily usage,Bike Types
+Do you have bikes for beginner?,Bike Types
+I'm a professional cyclist. What options do you have in store for me?,Bike Types
+Which bike is good for beginner?,Bike Types
+I want to purchase a road bike,Bike Types
+what types of bikes do you have in store?,Bike Types
+Do you carry mountain bike?,Bike Types
+Do you sell E-bikes?,Bike Types
+price of changing a seat,Cost Estimation
+price of adjusting the seat,Cost Estimation
+how much to lubricate my chain?,Cost Estimation
+How much does it cost for ,Cost Estimation
+price for tire replacement,Cost Estimation
+How much does it cost to ,Cost Estimation
+How much do you charge for a tune-up?,Cost Estimation
+when does you store open ,Hours
+store hours,Hours
+"Do you open at evening, like 6pm?",Hours
+Do you open ,Hours
+hours ,Hours
+weekend,Hours
+weekday schedule,Hours
+can I come in on ,Hours
+when do you close?,Hours
+when to come in?,Hours
+business hours,Hours
+When can I drop off my bike for ,Hours
+When do you open?,Hours
+What are your hours?,Hours
+How late are you open?,Hours
+The seat is too high for me. Need to ,Make Appointment
+I need to adjust my seat,Make Appointment
+need to ,Make Appointment
+fix,Make Appointment
+tune-ups,Make Appointment
+appointment,Make Appointment
+Can I make a appointment to come in?,Make Appointment
+I got a ,Make Appointment
+I need to come in for a ,Make Appointment
+Can I setup an appointment to ,Make Appointment
+Can you fix my ,Make Appointment
+Can I schedule service for ,Make Appointment
+My bike is broken,Make Appointment
+I have a ,Make Appointment
+I'd like to get my bike fixed,Make Appointment
+I'd like to schedule an appointment for ,Make Appointment
+I want to return,Return Policy
+I don't like my bike,Return Policy
+full refund,Return Policy
+refund,Return Policy
+return,Return Policy
+return and refund,Return Policy
+What if I don't like the bike?,Return Policy
+What do I need to bring back for return?,Return Policy
+How long can I hold a bike before issuing a refund?,Return Policy
+Do you take returns on a used bike?,Return Policy
+How much can I get refund from a purchase?,Return Policy
+Can I get full refund?,Return Policy
+"If the bike doesn't fit me, can I return it?",Return Policy
+What are the restrictions of returning a bike?,Return Policy
+Do you take returns for all bikes?,Return Policy
+What do I need for a return?,Return Policy
+How can I return a bike?,Return Policy
+Do you take returns?,Return Policy
+Can I return the bike I purchased?,Return Policy
+What if I change my mind later,Return Policy
+What is your return policy?,Return Policy
+sell old bikes,Trade-in Options
+I need to get rid of an old bike.,Trade-in Options
+Can I request trade-in online?,Trade-in Options
+What do I need to trade in?,Trade-in Options
+Do you take bikes from different shops?,Trade-in Options
+Can I sell my bike to you?,Trade-in Options
+upgrade my old bike,Trade-in Options
+exchange bikes,Trade-in Options
+sell my bike,Trade-in Options
+I want to trade in my bike,Trade-in Options
+what do you do with the old bikes?,Trade-in Options
+"I want to get a new bike, can you take my old one?",Trade-in Options
+I'd like to learn the trade-in options.,Trade-in Options
+Do you buy used bikes?,Trade-in Options
+Do you take trade-ins?,Trade-in Options
+Do you buy bikes?,Trade-in Options
+hello,Welcome Intent
+I am looking for a bike for my son,Bike Types
+I need bikes,Bike Types
+I like bikes,Bike Types
+I like bike,Bike Types
+I need a bike for road,Bike Types
+How much do you want,Cost Estimation
+How much do you need for it,Cost Estimation
+What price of it,Cost Estimation
+Tell me the cost of it,Cost Estimation
+Do you know the price,Cost Estimation
+afternoon,Hours
+In the evening,Hours
+In the morning,Hours
+Do you close,Hours
+Is it open,Hours
+I have got a ,Make Appointment
+Let's meet,Make Appointment
+Do you meet me,Make Appointment
+I want my money back,Return Policy
+Return my money,Return Policy
+I don't like this item,Return Policy
+Do you like used bikes?,Trade-in Options
+Do you need used bikes?,Trade-in Options
+Take my used bikes?,Trade-in Options
+hello shop,Welcome Intent
+hey I need some help,Welcome Intent
+is anyone there,Welcome Intent
+can you help me,Welcome Intent
+I want to buy a bike,Welcome Intent
+I'm looking for a bicycle,Welcome Intent
+greetings,Welcome Intent
+yo,Welcome Intent
+hey buddy,Welcome Intent
+hi shop,Welcome Intent
+hello I have a question,Welcome Intent
+good day,Welcome Intent
+hi I need info about bikes,Welcome Intent
+mountain bike,Bike Types
+road bike,Bike Types
+electric bike,Bike Types
+e-bike options,Bike Types
+do you sell BMX bikes,Bike Types
+gravel bikes available,Bike Types
+kids bikes,Bike Types
+bike for city commuting,Bike Types
+best bike for beginners,Bike Types
+professional racing bike,Bike Types
+carbon fiber bikes,Bike Types
+lightweight bicycles,Bike Types
+foldable bikes,Bike Types
+hybrid bikes,Bike Types
+touring bicycles,Bike Types
+bike for long distance,Bike Types
+what types of bikes do you have,Bike Types
+I need a durable bike,Bike Types
+bike for off-road,Bike Types
+entry level bike,Bike Types
+how much does a bike cost,Cost Estimation
+price of mountain bike,Cost Estimation
+budget bikes under 500,Cost Estimation
+cheap bicycles,Cost Estimation
+expensive bikes price,Cost Estimation
+average bike cost,Cost Estimation
+how much for a good bike,Cost Estimation
+bike price range,Cost Estimation
+what is the cost of e-bike,Cost Estimation
+how much should I spend on a bike,Cost Estimation
+cost of bike accessories,Cost Estimation
+price estimate for repair,Cost Estimation
+how much to fix brakes,Cost Estimation
+bike tune up price,Cost Estimation
+repair cost estimation,Cost Estimation
+cost for new tires,Cost Estimation
+price of helmet,Cost Estimation
+how much is a racing bike,Cost Estimation
+bike maintenance cost,Cost Estimation
+what time do you open,Hours
+what are your hours,Hours
+opening hours,Hours
+closing time,Hours
+are you open today,Hours
+shop working hours,Hours
+when do you close,Hours
+what time do you close today,Hours
+are you open on weekends,Hours
+weekend hours,Hours
+holiday hours,Hours
+are you open now,Hours
+when does the shop open,Hours
+business hours,Hours
+schedule of the shop,Hours
+what time can I visit,Hours
+hours for today,Hours
+are you open tomorrow,Hours
+opening time please,Hours
+when are you available,Hours
+I want to book an appointment,Make Appointment
+schedule a repair,Make Appointment
+book a service,Make Appointment
+make an appointment,Make Appointment
+can I reserve a time,Make Appointment
+appointment for bike repair,Make Appointment
+I need to schedule maintenance,Make Appointment
+book a slot,Make Appointment
+set up an appointment,Make Appointment
+reserve service time,Make Appointment
+can I come tomorrow for repair,Make Appointment
+schedule bike check,Make Appointment
+Safety check-up,Make Appointment
+Seasonal check-up,Make Appointment
+General check-up,Make Appointment
+Bicycle health check,Make Appointment
+Full bike check,Make Appointment
+I want to fix my bike,Make Appointment
+book for tune up,Make Appointment
+appointment request,Make Appointment
+reserve a mechanic,Make Appointment
+schedule service,Make Appointment
+make booking,Make Appointment
+I need an appointment,Make Appointment
+book repair slot,Make Appointment
+road bikes,Bike Types
+mountain bikes,Bike Types
+hybrid bikes,Bike Types
+electric bikes,Bike Types
+folding bikes,Bike Types
+bikes for teenagers,Bike Types
+bikes for seniors,Bike Types
+I need a bike for long distance rides,Bike Types
+what bikes do you recommend for trails?,Bike Types
+I want a fast bike for racing,Bike Types
+do you sell cruiser bikes?,Bike Types
+BMX bikes,Bike Types
+gravel bikes,Bike Types
+bikes suitable for city riding,Bike Types
+which bike is best for off-road?,Bike Types
+I'm looking for a comfortable bike for weekend rides,Bike Types
+do you carry touring bikes?,Bike Types
+bikes for fitness,Bike Types
+high-performance bikes,Bike Types
+what's the lightest bike you have?,Bike Types
+single-speed bikes,Bike Types
+I want a bike for my daughter,Bike Types
+bikes with multiple gears,Bike Types
+I need a bike for long commutes,Bike Types
+what bikes do you have for heavy riders?,Bike Types
+full-suspension mountain bikes,Bike Types
+hardtail bikes,Bike Types
+bikes for trail riding and commuting,Bike Types
+what's a good beginner road bike?,Bike Types
+do you have any kids' bikes in stock?,Bike Types
+I'm looking for a triathlon bike,Bike Types
+do you have any fat tire bikes?,Bike Types
+beach cruiser bikes,Bike Types
+bikes for college students,Bike Types
+what brands of bikes do you carry?,Bike Types
+how much for a basic tune-up?,Cost Estimation
+what does a flat tire repair cost?,Cost Estimation
+how much to replace my brakes?,Cost Estimation
+price to fix a bent rim,Cost Estimation
+cost of a full bike overhaul,Cost Estimation
+how much does a wheel truing cost?,Cost Estimation
+what do you charge for a gear adjustment?,Cost Estimation
+how much to replace the handlebars?,Cost Estimation
+price to fix squeaky brakes,Cost Estimation
+how much does it cost to replace a chain?,Cost Estimation
+what's the cost for cable replacement?,Cost Estimation
+how much is a basic service?,Cost Estimation
+cost to replace pedals,Cost Estimation
+price for bottom bracket replacement,Cost Estimation
+how much for a derailleur adjustment?,Cost Estimation
+what does it cost to true a wheel?,Cost Estimation
+how much for a full tune-up and cleaning?,Cost Estimation
+what's your labor rate per hour?,Cost Estimation
+how much to replace both tires?,Cost Estimation
+cost of replacing brake pads,Cost Estimation
+how much does a bike fit session cost?,Cost Estimation
+what's the price for a bearing replacement?,Cost Estimation
+cost to replace the crankset,Cost Estimation
+how much to fix a broken spoke?,Cost Estimation
+price for handlebar tape replacement,Cost Estimation
+what do you charge to assemble a new bike?,Cost Estimation
+how much is a safety inspection?,Cost Estimation
+cost to replace the saddle,Cost Estimation
+how much for headset adjustment?,Cost Estimation
+what does it cost to fix a slipping gear?,Cost Estimation
+are you open on Sundays?,Hours
+what time do you close on Fridays?,Hours
+do you open early on weekdays?,Hours
+what are your Saturday hours?,Hours
+are you open on holidays?,Hours
+do you close for lunch?,Hours
+what time does the shop open?,Hours
+are you open on Christmas?,Hours
+do you have extended hours during summer?,Hours
+what time do you open on weekdays?,Hours
+are you open on New Year's Day?,Hours
+what are your holiday hours?,Hours
+are you open this Sunday?,Hours
+do you have morning appointments available?,Hours
+how late are you open on weeknights?,Hours
+are you open on Labor Day?,Hours
+what days are you closed?,Hours
+do you open before 9am?,Hours
+are you open on Sunday afternoons?,Hours
+when is the best time to come in without a wait?,Hours
+do you have late-night hours?,Hours
+are you open today?,Hours
+what time should I come in for a quick repair?,Hours
+do you take walk-ins in the morning?,Hours
+are you open Memorial Day weekend?,Hours
+I need to book a repair appointment,Make Appointment
+I want to schedule a service visit,Make Appointment
+can I bring my bike in tomorrow?,Make Appointment
+I'd like to make a service appointment,Make Appointment
+how do I schedule a tune-up?,Make Appointment
+I need someone to look at my bike,Make Appointment
+my bike needs a full overhaul — can I book?,Make Appointment
+can I come in this week for a repair?,Make Appointment
+I want to drop off my bike for service,Make Appointment
+"my gears aren't shifting right, need to come in",Make Appointment
+can I get a same-day appointment?,Make Appointment
+I'd like to schedule a wheel truing,Make Appointment
+can you fit me in this Saturday?,Make Appointment
+I need to schedule a brake adjustment,Make Appointment
+"my chain fell off, can I come in?",Make Appointment
+I want to book a bike fitting,Make Appointment
+I need an appointment for a flat tire fix,Make Appointment
+can I schedule a full service?,Make Appointment
+can I drop off my bike without an appointment?,Make Appointment
+I'd like to book a safety inspection,Make Appointment
+how far out are you booked?,Make Appointment
+I need to get my bike looked at before the weekend,Make Appointment
+my bike needs new brakes — when can I come in?,Make Appointment
+can I reserve a slot for next week?,Make Appointment
+I want to schedule maintenance before my trip,Make Appointment
+I'd like to exchange my bike for a different model,Return Policy
+can I return a bike I bought online?,Return Policy
+how long do I have to return a bike?,Return Policy
+what is your exchange policy?,Return Policy
+do I need the receipt to return a bike?,Return Policy
+can I return a bike if I've ridden it?,Return Policy
+what is the restocking fee for returns?,Return Policy
+do you offer store credit for returns?,Return Policy
+I changed my mind about the bike I bought,Return Policy
+can I return a defective bike?,Return Policy
+what happens if the bike arrives damaged?,Return Policy
+do you accept returns after 30 days?,Return Policy
+can I return accessories along with the bike?,Return Policy
+how long does it take to process a refund?,Return Policy
+is there a time limit on returns?,Return Policy
+what if the bike is the wrong size?,Return Policy
+can I return a bike that was on sale?,Return Policy
+do you offer price matching?,Return Policy
+can I swap my bike for a different size?,Return Policy
+what if my bike breaks after I buy it?,Return Policy
+does the bike come with a warranty?,Return Policy
+what are the terms of your return policy?,Return Policy
+can I test a bike and return it if I don't like it?,Return Policy
+how do I initiate a return?,Return Policy
+do I need to bring the box back for a return?,Return Policy
+I want to trade my old bike for a new one,Trade-in Options
+do you accept trade-ins from any brand?,Trade-in Options
+how do you assess the value of a trade-in?,Trade-in Options
+can I trade in a damaged bike?,Trade-in Options
+do you give cash for used bikes?,Trade-in Options
+I have an old mountain bike I'd like to trade,Trade-in Options
+can I trade in my bike toward a more expensive one?,Trade-in Options
+do I need to clean my bike before trading it in?,Trade-in Options
+what condition does my bike need to be in for trade-in?,Trade-in Options
+can I trade in a bike I bought elsewhere?,Trade-in Options
+do you trade in kids' bikes?,Trade-in Options
+how does your trade-in process work?,Trade-in Options
+can I get store credit for my old bike?,Trade-in Options
+I want to upgrade and trade in my current bike,Trade-in Options
+do you take electric bikes as trade-ins?,Trade-in Options
+what paperwork do I need for a trade-in?,Trade-in Options
+can I trade in multiple bikes at once?,Trade-in Options
+I have a vintage bike — do you take those?,Trade-in Options
+do you offer trade-in deals on new bikes?,Trade-in Options
+can I trade in my bike even if it's broken?,Trade-in Options
+what's the trade-in value of my bike?,Trade-in Options
+can I trade in a bike that's not working?,Trade-in Options
+do you have a trade-in program?,Trade-in Options
+I'd like to put my old bike toward a new purchase,Trade-in Options
+how much will you give me for my used bike?,Trade-in Options
+hi there,Welcome Intent
+good morning,Welcome Intent
+hey,Welcome Intent
+good afternoon,Welcome Intent
+"hi, I have a question",Welcome Intent
+howdy,Welcome Intent
+good evening,Welcome Intent
+greetings,Welcome Intent
+hey there,Welcome Intent
+"hi, I need some help",Welcome Intent
+yo,Welcome Intent
+good day,Welcome Intent
+hello there,Welcome Intent
+hi! I'm new here,Welcome Intent
+what's up?,Welcome Intent
+hello! can I ask you something?,Welcome Intent
+do you have any cruiser bikes for seniors?,Bike Types
+I'm shopping for a commuter bike under $500,Bike Types
+what's the difference between road and hybrid bikes?,Bike Types
+I need a durable bike for rough city streets,Bike Types
+are there bikes good for both road and gravel?,Bike Types
+what's a good bike for someone returning after years off?,Bike Types
+I need a bike that fits in a small apartment,Bike Types
+do you have any cargo bikes?,Bike Types
+what bikes can handle steep hills?,Bike Types
+I'm training for a century ride — what do you recommend?,Bike Types
+I need a comfortable upright bike,Bike Types
+do you sell recumbent bikes?,Bike Types
+bikes that work for both fitness and commuting,Bike Types
+I want a bike that's easy to maintain,Bike Types
+do you have step-through frame bikes?,Bike Types
+what's a good starter mountain bike?,Bike Types
+do you carry any titanium frame bikes?,Bike Types
+I want a bike with a built-in light,Bike Types
+do you have bikes for people with knee problems?,Bike Types
+I'm looking for a lightweight bike for travel,Bike Types
+how much does it cost to replace a cassette?,Cost Estimation
+price for a complete drivetrain service,Cost Estimation
+what does a bike wash cost?,Cost Estimation
+how much to upgrade to hydraulic brakes?,Cost Estimation
+cost to replace shifters,Cost Estimation
+price for fork service,Cost Estimation
+how much for a suspension tune?,Cost Estimation
+what's the price to install a new rack?,Cost Estimation
+cost to add fenders to my bike,Cost Estimation
+how much to install a new kickstand?,Cost Estimation
+what do you charge for a spoke replacement?,Cost Estimation
+price to bleed hydraulic brakes,Cost Estimation
+how much to replace a bike computer?,Cost Estimation
+what's the cost for chain cleaning and lube?,Cost Estimation
+how much to swap out my saddle?,Cost Estimation
+cost to add clipless pedals,Cost Estimation
+price to convert to tubeless tires,Cost Estimation
+how much does it cost to replace a rear derailleur?,Cost Estimation
+what does a drivetrain replacement cost?,Cost Estimation
+cost of installing new grips,Cost Estimation
+are you open on Black Friday?,Hours
+do you have Sunday morning hours?,Hours
+what time do you close on the weekend?,Hours
+are you open the week of Thanksgiving?,Hours
+do your hours change in the winter?,Hours
+when do you start taking appointments in the morning?,Hours
+are you open the day after Christmas?,Hours
+do you stay open late on Fridays?,Hours
+what are your hours during the holiday season?,Hours
+do you close early on Sundays?,Hours
+are you open between Christmas and New Year?,Hours
+do you have seasonal hours?,Hours
+what time should I arrive for a drop-off?,Hours
+are you open before 8am?,Hours
+do you open on bank holidays?,Hours
+what are your weekday opening times?,Hours
+are you ever open past 7pm?,Hours
+do you close on Mondays?,Hours
+what time is last drop-off for repairs?,Hours
+are you open on the 4th of July?,Hours
+I need my derailleur fixed — can I book that?,Make Appointment
+can I schedule a new bike assembly?,Make Appointment
+I'd like to bring my bike in for a checkup,Make Appointment
+I need a bike tune-up,Make Appointment
+My bike needs servicing,Make Appointment
+Can I bring my bike in for maintenance?,Make Appointment
+I want to get my brakes checked,Make Appointment
+Regular check up for my bike,Make Appointment
+Can I come in after 8pm?,Hours
+Can I come in before 4pm ?,Hours
+Do you open at 3pm?,Hours
+my front wheel wobbles — when can I come in?,Make Appointment
+can I make an appointment to have tires changed?,Make Appointment
+I need to book a handlebar adjustment,Make Appointment
+can I schedule a service for early next week?,Make Appointment
+I'd like to set up a time to drop off my bike,Make Appointment
+my pedal is loose — can I get an appointment?,Make Appointment
+I want to schedule a pre-race tune-up,Make Appointment
+can I get my bike serviced this weekend?,Make Appointment
+I need to book a seasonal service,Make Appointment
+can I get a walk-in appointment today?,Make Appointment
+I need my bike ready for a ride on Saturday,Make Appointment
+can I book an appointment online?,Make Appointment
+I'd like to set up regular maintenance appointments,Make Appointment
+my bottom bracket is creaking — can you help?,Make Appointment
+I need an appointment to have my bike assembled,Make Appointment
+can I schedule an evening appointment?,Make Appointment
+I want to bring my e-bike in for service,Make Appointment
+do you do price adjustments after purchase?,Return Policy
+what if I bought the wrong size bike?,Return Policy
+can I return a helmet along with the bike?,Return Policy
+do you have a satisfaction guarantee?,Return Policy
+can I return a bike purchased as a gift?,Return Policy
+what if the bike I ordered is out of stock?,Return Policy
+can I get a refund if the bike was misrepresented?,Return Policy
+what's your policy on returning bike accessories?,Return Policy
+do I have to pay return shipping?,Return Policy
+can I return a custom-ordered bike?,Return Policy
+what if my bike was stolen and I want a refund?,Return Policy
+how do I return a bike I received as a gift?,Return Policy
+do you offer a money-back guarantee?,Return Policy
+can I return a floor model bike?,Return Policy
+what if I just don't like how the bike rides?,Return Policy
+do you have a trial period for new bikes?,Return Policy
+can I return an e-bike?,Return Policy
+is there a restocking fee on returns?,Return Policy
+what if the color I ordered was wrong?,Return Policy
+can I exchange my bike for store credit?,Return Policy
+do you appraise bikes for trade-in?,Trade-in Options
+can I trade in my kid's old bike?,Trade-in Options
+I want to get rid of my old commuter bike,Trade-in Options
+do you offer a loyalty discount for trade-ins?,Trade-in Options
+can I trade in a borrowed bike?,Trade-in Options
+I have two old bikes — will you take both?,Trade-in Options
+how quickly do you process a trade-in?,Trade-in Options
+does the bike need to be fully functional for trade-in?,Trade-in Options
+can I negotiate the trade-in value?,Trade-in Options
+I'd like to trade in and get a discount on a new bike,Trade-in Options
+do you do online trade-in estimates?,Trade-in Options
+what brands do you accept for trade-in?,Trade-in Options
+can I trade in a bike I won?,Trade-in Options
+I want to trade up from a beginner to an advanced bike,Trade-in Options
+do you take kids' bikes as part of a trade-in deal?,Trade-in Options
+is there a minimum condition for trade-ins?,Trade-in Options
+can I trade in a bike without a title?,Trade-in Options
+I'm upgrading my ride — do you take old ones?,Trade-in Options
+how do I get my old bike appraised for trade-in?,Trade-in Options
+do you accept trade-ins year-round?,Trade-in Options
